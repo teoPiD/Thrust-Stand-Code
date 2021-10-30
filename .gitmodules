@@ -1,0 +1,6 @@
+[submodule "ardupilot"]
+	path = ardupilot
+	url = https://github.com/teoPiD/ardupilot.git
+[submodule "Pixhawk/ardupilot"]
+	path = Pixhawk/ardupilot
+	url = https://github.com/teoPiD/ardupilot.git
